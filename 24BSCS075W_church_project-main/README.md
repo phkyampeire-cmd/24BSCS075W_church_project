@@ -96,9 +96,6 @@ Download and install **XAMPP**.
   * Apache
   * MySQL
 
----
-
-### Step 3: Copy Project Files
 
 * Copy your project folder:
 
@@ -110,8 +107,7 @@ church_management_system
 
 ```
 C:\xampp\htdocs\
-```
-### Step 4: Open in Browser
+
 
 ## 🗄️ Database Import Instructions
 
@@ -217,19 +213,11 @@ Passwords are stored using hashing for security. Always ensure proper validation
 * Report generation (PDF)
 * Data analytics and charts
 * Mobile-friendly enhancements
-
----
-
-## 📌 Conclusion
+ Conclusion
 
 The Church Management System provides a reliable and efficient way to manage church operations digitally. It enhances organization, improves data accessibility, and supports better decision-making.
 
----
-
-## 🙏 Acknowledgement
-
+ Acknowledgement
 This project was developed as part of academic requirements for the Bachelor of Science in Computer Science program.
 
----
-# 24BSCS075W_church_project
-# 24BSCS075W_church_project
+
