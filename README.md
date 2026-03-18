@@ -1,3 +1,4 @@
+
 # 📖 CHURCH MANAGEMENT SYSTEM
 
  Student Information
@@ -233,3 +234,4 @@ This project was developed as part of academic requirements for the Bachelor of 
 ---
 # 24BSCS075W_church_project
 # 24BSCS075W_church_project
+
